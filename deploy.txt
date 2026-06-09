@@ -1,1 +1,2 @@
 deploy version 1.0
+server=production
