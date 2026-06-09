@@ -1,2 +1,3 @@
 db=mysql
 port=3306
+host=localhost
