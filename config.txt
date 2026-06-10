@@ -1,3 +1,4 @@
 server=localhost
 port=8080
 env=production
+ci=true
